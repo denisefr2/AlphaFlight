@@ -1,12 +1,12 @@
-body {
- background-color: #0B0C10;
-}
 header {
   background-color: #1F2833;
   padding: 30px;
   text-align: center;
   font-size: 35px;
   color: #66FCF1;
+}
+body {
+ background-color: #0B0C10;
 }
 #mySidenav a {
   position: fixed;
@@ -19,26 +19,21 @@ header {
   color: white;
   border-radius: 0 5px 5px 0;
 }
-
 #mySidenav a:hover {
   left: 0; 
 }
-
 #home {
   top: 20px;
   background-color: #9E79A6;
 }
-
 #teamprofile {
   top: 80px;
   background-color: #A69E79; 
 }
-
 #idealjobs {
   top: 140px;
   background-color: #79A69E; 
 }
-
 #tools {
   top: 200px;
   background-color: #A67A79 
