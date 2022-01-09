@@ -8,3 +8,58 @@ header {
   font-size: 35px;
   color: #66FCF1;
 }
+#mySidenav a {
+  position: fixed;
+  left: -120px; 
+  transition: 0.3s; 
+  padding: 15px;
+  width: 150px;
+  text-decoration: none; 
+  font-size: 20px;
+  color: white;
+  border-radius: 0 5px 5px 0;
+}
+
+#mySidenav a:hover {
+  left: 0; 
+}
+
+#home {
+  top: 20px;
+  background-color: #9E79A6;
+}
+
+#teamprofile {
+  top: 80px;
+  background-color: #A69E79; 
+}
+
+#idealjobs {
+  top: 140px;
+  background-color: #79A69E; 
+}
+
+#tools {
+  top: 200px;
+  background-color: #A67A79 
+}
+#industrydata {
+  top: 260px;
+  background-color: #9CA679 
+}
+#itwork {
+  top: 320px;
+  background-color: #E9C4F1 
+}
+#ittechnologies {
+  top: 380px;
+  background-color: #B19D18 
+}
+#projectideas {
+  top: 380px;
+  background-color: #B19D18 
+}
+#bibliography {
+  top: 380px;
+  background-color: #B19D18 
+}
