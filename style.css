@@ -16,7 +16,7 @@ body {
   width: 150px;
   text-decoration: none; 
   font-size: 20px;
-  color: white;
+  color: 45A29E;
   border-radius: 0 5px 5px 0;
 }
 #mySidenav a:hover {
@@ -24,37 +24,37 @@ body {
 }
 #home {
   top: 20px;
-  background-color: #9E79A6;
+  background-color: #1F2833;
 }
 #teamprofile {
   top: 100px;
-  background-color: #A69E79; 
+  background-color: #1F2833; 
 }
 #idealjobs {
   top: 180px;
-  background-color: #79A69E; 
+  background-color: #1F2833; 
 }
 #tools {
   top: 260px;
-  background-color: #A67A79 
+  background-color: #1F2833 
 }
 #industrydata {
   top: 340px;
-  background-color: #9CA679 
+  background-color: #1F2833 
 }
 #itwork {
   top: 420px;
-  background-color: #E9C4F1 
+  background-color: #1F2833 
 }
 #ittechnologies {
   top: 500px;
-  background-color: #B19D18 
+  background-color: #1F2833 
 }
 #projectideas {
   top: 580px;
-  background-color: #B19D18 
+  background-color: #1F2833 
 }
 #bibliography {
   top: 560px;
-  background-color: #B19D18 
+  background-color: #1F2833 
 }
