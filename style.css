@@ -27,34 +27,34 @@ body {
   background-color: #01579B;
 }
 #teamprofile {
-  top: 100px;
+  top: 80px;
   background-color: #0277BD; 
 }
 #idealjobs {
-  top: 180px;
+  top: 160px;
   background-color: #039BE5; 
 }
 #tools {
-  top: 260px;
+  top: 240px;
   background-color: #00B0FF 
 }
 #industrydata {
-  top: 340px;
+  top: 320px;
   background-color: #40C4FF 
 }
 #itwork {
-  top: 420px;
+  top: 400px;
   background-color: #29B6F6 
 }
 #ittechnologies {
-  top: 500px;
+  top: 480px;
   background-color: #4FC3F7
 }
 #projectideas {
-  top: 580px;
+  top: 560px;
   background-color: #81D4FA 
 }
 #bibliography {
-  top: 560px;
+  top: 640px;
   background-color: #B3E5FC 
 }
