@@ -17,7 +17,7 @@ body {
 }
 #mySidenav a {
   position: fixed;
-  left: -120px; 
+  left: -80px; 
   transition: 0.3s; 
   padding: 15px;
   width: 120x;
