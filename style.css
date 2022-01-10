@@ -89,14 +89,15 @@ html {
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   margin: 8px;
-  Background-color: #1A2227
+  Background-color: #1A2227;
+  color: 66B2B2
 }
 
 .about-section {
   padding: 50px;
   text-align: center;
   background-color: #1F2833;
-  color: white;
+  color: #66B2B2;
 }
 
 .container {
