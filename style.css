@@ -6,7 +6,7 @@ header {
   color: #66FCF1;
 }
 body {
- background-color: #white;
+ background-color: #0B0C10;
 }
 #mySidenav a {
   position: fixed;
@@ -86,8 +86,8 @@ html {
 .about-section {
   padding: 50px;
   text-align: center;
-  background-color: #474e5d;
-  color: white;
+  background-color: #1F2833;
+  color: #45A29E;
 }
 
 .container {
@@ -103,23 +103,6 @@ html {
 .title {
   color: grey;
 }
-
-.button {
-  border: none;
-  outline: 0;
-  display: inline-block;
-  padding: 8px;
-  color: white;
-  background-color: #000;
-  text-align: center;
-  cursor: pointer;
-  width: 100%;
-}
-
-.button:hover {
-  background-color: #555;
-}
-
 @media screen and (max-width: 650px) {
   .column {
     width: 100%;
