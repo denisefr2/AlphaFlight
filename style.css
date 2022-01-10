@@ -32,39 +32,39 @@ body {
 
 #home {
   top: 20px;
-  background-color: #01579B;
+  background-color: #A7FFEB;
 }
 #teamprofile {
   top: 80px;
-  background-color: #0277BD; 
+  background-color: #B2DFDB; 
 }
 #idealjobs {
   top: 160px;
-  background-color: #039BE5; 
+  background-color: #80CBC4; 
 }
 #tools {
   top: 240px;
-  background-color: #00B0FF 
+  background-color: #4DB6AC 
 }
 #industrydata {
   top: 320px;
-  background-color: #40C4FF 
+  background-color: #26A69A 
 }
 #itwork {
   top: 400px;
-  background-color: #29B6F6 
+  background-color: #009688 
 }
 #ittechnologies {
   top: 480px;
-  background-color: #4FC3F7
+  background-color: #00897B
 }
 #projectideas {
   top: 560px;
-  background-color: #81D4FA 
+  background-color: #00796B 
 }
 #bibliography {
   top: 640px;
-  background-color: #B3E5FC 
+  background-color: #00695C 
 }
 body {
   font-family: Arial, Helvetica, sans-serif;
