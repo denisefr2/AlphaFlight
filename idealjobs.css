@@ -3,7 +3,7 @@ h1 {
 }
 .grid-container {
   display: grid !important;
-  grid-template-columns: auto auto auto auto auto auto auto !important;
+  grid-template-columns: auto auto auto auto auto auto !important;
   grid-gap: 10px !important;
   background-color: #1A2227 !important;
   padding: 10px !important;
