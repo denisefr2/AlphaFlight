@@ -33,4 +33,9 @@ h1 {
 .item9 {
   grid-column: 1 / 5 !important;
 }
-
+.item12 {
+  grid-column: 1 / 7 !important;
+}
+.item13 {
+  grid-column: 1 / 5 !important;
+}
