@@ -1,3 +1,6 @@
+h1 {
+  color: #008080 !important;
+}
 .grid-container {
   display: grid !important;
   grid-template-columns: auto auto auto auto auto auto !important;
