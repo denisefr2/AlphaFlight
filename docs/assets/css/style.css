@@ -15,11 +15,11 @@ body {
  background-color: #1F2833;
 }
 #mySidenav a {
-  position: absolute;
-  left: -170px;
+  position: fixed;
+  left: -190px;
   transition: 0.3s;
   padding: 15px;
-  width: 200px;
+  width: 250px;
   text-decoration: none;
   font-size: 20px;
   color: white;
@@ -62,13 +62,13 @@ body {
   top: 440px;
   background-color: #00796B 
 }
-#groupreflection {
-  top: 500px;
-  background-color: #00796B 
-}
 #bibliography {
-  top: 560px;
+  top: 500px;
   background-color: #00695C 
+}
+#groupreflection {
+  top: 560px;
+  background-color: #005A4D
 }
 body {
   font-family: Arial, Helvetica, sans-serif;
