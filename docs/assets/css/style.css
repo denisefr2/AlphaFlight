@@ -15,7 +15,7 @@ body {
  background-color: #1F2833;
 }
 #mySidenav a {
-  position: sticky;
+  position: absolute;
   left: -170px;
   transition: 0.3s;
   padding: 15px;
