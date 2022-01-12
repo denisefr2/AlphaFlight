@@ -62,8 +62,12 @@ body {
   top: 440px;
   background-color: #00796B 
 }
-#bibliography {
+#groupreflection {
   top: 500px;
+  background-color: #00796B 
+}
+#bibliography {
+  top: 560px;
   background-color: #00695C 
 }
 body {
