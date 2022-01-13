@@ -3,6 +3,11 @@ body {
 	color: #66B2B2
 }
 
+.sourcetext {
+	font-style: italic;
+	text-align: center;
+}
+
 .container {
 	display: grid;
 	grid-template-columns: repeat(3, 1fr);
@@ -94,3 +99,4 @@ body {
     img:nth-child(4) {
       animation-delay: 0s;
     }
+
