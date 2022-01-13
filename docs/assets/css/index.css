@@ -3,5 +3,10 @@ body {
 }
 
 .center {
-	text-align: center
+	text-align: center;
+}
+
+.imgs {
+	text-align: center;
+	padding-top: 15px;
 }
