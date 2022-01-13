@@ -17,7 +17,9 @@ div.a {
 }
 body {
  background-color: #1F2833;
+ font-size: 16px;
 }
+
 #mySidenav a {
   position: fixed;
   left: -190px;
